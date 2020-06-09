@@ -1,0 +1,1 @@
+db.cities.updateMany( {}, {  $set: { destination: "" }  } )
